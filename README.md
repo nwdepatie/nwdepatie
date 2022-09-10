@@ -43,7 +43,7 @@
   </br>
 
 </div>
-<!--
+
 <div align="left">
 
 <h3>Coursework 📚</h3>
@@ -68,7 +68,7 @@
   </ul>
 
 </div>
--->
+
 <!--
 **nwdepatie/nwdepatie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
