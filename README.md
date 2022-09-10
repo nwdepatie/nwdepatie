@@ -1,20 +1,18 @@
 <h1 align="center">Nick DePatie - NEU ECE '25 ⚡💾 ⏱
 <h2 align="center">🛠 Embedded Systems, Firmware, Communication Networks 🛠
 
-### Hi there 👋
-My name is Nick DePatie
+<h3 align="center">Hi there! 👋
+My name is Nick DePatie, and I'm a 3rd year Electrical and Computer Engineering major at Northeastern University.
 
-### Current Projects ✏️
+<h3 align="center">Positions 💼
+- Network Automation Engineer
+- Head of Data & Controls
+
+<h3 align="center">Current Projects ✏️
 #### NER (Northeastern Electric Racing) 🏎️
 - MPU (Main Processing Unit)
 - Shepherd BMS (Battery Management System)
 - Telemetry Hub
-
-#### Classes 📚
-- Digital Design
-- Engineering Algorithms
-- Electromagnetics
-- Marketing
 
 #### Personal 🧸
 - XBox Kinect CV
