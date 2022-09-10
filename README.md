@@ -2,17 +2,24 @@
 <h2 align="center">🛠 Embedded Systems, Firmware, Communication Networks 🛠
 
 <div class="grid-container">
+  
   <div class="grid-item">
+    
     <h3 align="center">  Hi there! 👋 </h3>
     <body align="center">
       <p>My name is Nick DePatie, and I'm a 3rd year Electrical and Computer Engineering major at Northeastern University.</p>
     </body>
+    
   </div>
+  
   <div class="grid-item">
+    
     <h3 align="center">Current Positions 💼</h3>
     <h4 align="center">Network Automation Engineer @ Northeastern University ITS</h4>
     <h4 align="center">Head of Data & Controls @ Northeastern Electric Racing</h4>
+  
   </div>
+
 </div>
   
 <div>
