@@ -29,17 +29,18 @@
   
   <h3>✏️ Current Projects</h3>
   <h4>🏎️ NER (Northeastern Electric Racing)</h4>
-  <ul>
-    <li>MPU (Main Processing Unit)</li>
-    <li>Shepherd BMS (Battery Management System)</li>
-    <li>Telemetry Hub</li>
-  </ul>
-
+    MPU (Main Processing Unit)
+  </br>
+    Shepherd BMS (Battery Management System)
+  </br>
+    Telemetry Hub
+  </br>
+  
   <h4>🧸 Personal</h4>
-  <ul>
-    <li>XBox Kinect CV</li>
-    <li>Assignment Manager</li>
-  </ul>
+    XBox Kinect CV
+  </br>
+    Assignment Manager
+  </br>
 
 </div>
 
