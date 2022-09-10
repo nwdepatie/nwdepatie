@@ -1,13 +1,11 @@
 <h1 align="center">Nick DePatie - NEU ECE '25 ⚡💾 ⏱
 <h2 align="center">🛠 Embedded Systems, Firmware, Communication Networks 🛠
 
-<div>
 <h3 align="center">  Hi there! 👋 </h3>
 
   <body align="center">
     <p>My name is Nick DePatie, and I'm a 3rd year Electrical and Computer Engineering major at Northeastern University.</p>
   </body>
-</div>
   
 <div align="">
 <h3 align="center">  Positions 💼</h3>
