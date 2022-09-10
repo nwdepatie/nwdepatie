@@ -11,22 +11,32 @@ My name is Nick DePatie, and I'm a 3rd year Electrical and Computer Engineering 
 </br>
 
 Network Automation Engineer
+  </br>
 Head of Data & Controls
 
 </div>  
 
+  
+<div align="center">
 <h3 align="center">Current Projects ✏️
 </br>
 
-#### NER (Northeastern Electric Racing) 🏎️
-- MPU (Main Processing Unit)
-- Shepherd BMS (Battery Management System)
-- Telemetry Hub
+<h4 align="center">NER (Northeastern Electric Racing) 🏎️
+</br>
+MPU (Main Processing Unit)
+</br>
+Shepherd BMS (Battery Management System)
+</br>
+Telemetry Hub
+</br>
 
-#### Personal 🧸
-- XBox Kinect CV
-- Assignment Manager
+<h4 align="center">Personal 🧸
+</br>
+XBox Kinect CV
+</br>
+Assignment Manager
 
+</div>
 <!--
 **nwdepatie/nwdepatie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
