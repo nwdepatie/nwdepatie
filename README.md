@@ -3,7 +3,7 @@
 
 <h3 align="center">  Hi there! 👋 </h3>
 <body align="center">
-  <p>My name is Nick DePatie, and I'm a 3rd year Electrical and Computer Engineering major at Northeastern University.</p>
+  <p>  My name is Nick DePatie, and I'm a 3rd year Electrical and Computer Engineering major at Northeastern University. My aim is to participate in culturally significant and beneficial technological advances through developing and improving embedded systems. I have interests in operating system and kernel development, microcontroller based systems, and communication networks.</p>
 </body>
 
 <h3 align="center">Current Positions 💼</h3>
