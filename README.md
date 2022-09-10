@@ -23,7 +23,6 @@
 <div align="right">
   
 <h3>  Current Projects ✏️</h3>
-</br>
 
 <h4>  NER (Northeastern Electric Racing) 🏎️</h4>
 </br>
