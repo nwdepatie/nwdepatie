@@ -2,18 +2,14 @@
 <h2 align="center">🛠 Embedded Systems, Firmware, Communication Networks 🛠
 
 <h3 align="center">  Hi there! 👋 </h3>
-
-  <body align="center">
-    <p>My name is Nick DePatie, and I'm a 3rd year Electrical and Computer Engineering major at Northeastern University.</p>
-  </body>
+<body align="center">
+  <p>My name is Nick DePatie, and I'm a 3rd year Electrical and Computer Engineering major at Northeastern University.</p>
+</body>
   
-<div align="">
+<div align>
 <h3 align="center">  Positions 💼</h3>
-</br>
-
-Network Automation Engineer
-  </br>
-Head of Data & Controls
+<h5 align="center">Network Automation Engineer</h5>
+<h5 align="center">Head of Data & Controls</h5>
 
 </div>  
 
