@@ -5,7 +5,11 @@
 <body align="center">
   <p>  I'm Nick DePatie, a 3rd year Electrical and Computer Engineering major at Northeastern University with a business administration minor. My aim is to participate in culturally significant and beneficial technological advances through developing and improving embedded systems. I have interests in operating system and kernel development, microcontroller based systems, silicon and SoC development, and communication networks.</p>
 </body>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Northeastern Electric Racing&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+ https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats
+  
 <div align="left">
 
 <h3>Positions 💼</h3>
