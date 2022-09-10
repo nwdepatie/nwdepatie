@@ -25,7 +25,7 @@
 <h3>  Current Projects ✏️</h3>
 </br>
 
-<h4 align="center">  NER (Northeastern Electric Racing) 🏎️</h4>
+<h4>  NER (Northeastern Electric Racing) 🏎️</h4>
 </br>
 MPU (Main Processing Unit)
 </br>
@@ -34,7 +34,7 @@ Shepherd BMS (Battery Management System)
 Telemetry Hub
 </br>
 
-<h4 align>  Personal 🧸</h4>
+<h4>  Personal 🧸</h4>
 <h4>XBox Kinect CV
 <h4>Assignment Manager
 </div>
