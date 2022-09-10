@@ -23,7 +23,9 @@
   </ul>
 
 </div>
+  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nwdepatie&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+ 
 <div align="right">
   
   <h3>✏️ Current Projects</h3>
