@@ -2,13 +2,16 @@
 <h2 align="center">🛠 Embedded Systems, Firmware, Communication Networks 🛠
 
 <h3 align="center">Hi there! 👋
+  <div>
 My name is Nick DePatie, and I'm a 3rd year Electrical and Computer Engineering major at Northeastern University.
 
 <h3 align="center">Positions 💼
+  <div>
 - Network Automation Engineer
 - Head of Data & Controls
 
 <h3 align="center">Current Projects ✏️
+  <div>
 #### NER (Northeastern Electric Racing) 🏎️
 - MPU (Main Processing Unit)
 - Shepherd BMS (Battery Management System)
