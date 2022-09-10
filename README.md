@@ -8,8 +8,8 @@
   
 <div align>
   <h3 align="center">  Positions 💼</h3>
-  <h4 align="center">Network Automation Engineer</h4>
-  <h4 align="center">Head of Data & Controls</h4>
+  <h4 align="center">Network Automation Engineer @ Northeastern University ITS</h4>
+  <h4 align="center">Head of Data & Controls @ Northeastern Electric Racing</h4>
 </div>  
 
   
