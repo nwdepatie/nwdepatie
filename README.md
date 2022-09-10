@@ -1,4 +1,4 @@
-<title align="center">Nick DePatie - NEU ECE '25 ⚡💾 ⏱
+<h1 align="center">Nick DePatie - NEU ECE '25 ⚡💾 ⏱
 <h2 align="center">🛠 Embedded Systems, Firmware, Communication Networks 🛠
 
 <h3 align="center">  Hi there! 👋
