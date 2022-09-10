@@ -17,7 +17,7 @@
 <h4>Camera NPI Firmware Co-op @ SimpliSafe</h4>
 <h4>Firmware Lead @ Northeastern Electric Racing</h4>
 <h4>Student Network Technician @ Northeastern University ITS</h4>
-  
+
 </div>
   
 <div align="right">
