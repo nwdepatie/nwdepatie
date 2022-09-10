@@ -1,4 +1,10 @@
+<h1 align="center">Nick DePatie - NEU ECE '25
+<h2 align="center">Embedded Systems, Firmware, Communication Networks
+
 ### Hi there 👋
+My name is Nick DePatie
+
+
 
 <!--
 **nwdepatie/nwdepatie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
