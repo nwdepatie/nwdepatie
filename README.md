@@ -24,8 +24,8 @@
   
 <h3>✏️ Current Projects</h3>
 
-<h4>  NER (Northeastern Electric Racing) 🏎️</h4>
-</br>
+<h4>🏎️ NER (Northeastern Electric Racing)</h4>
+
 MPU (Main Processing Unit)
 </br>
 Shepherd BMS (Battery Management System)
@@ -33,9 +33,11 @@ Shepherd BMS (Battery Management System)
 Telemetry Hub
 </br>
 
-<h4>  Personal 🧸</h4>
-<h4>XBox Kinect CV
-<h4>Assignment Manager
+<h4>🧸 Personal</h4>
+XBox Kinect CV
+</br>
+Assignment Manager
+</br>
 </div>
 <!--
 **nwdepatie/nwdepatie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
