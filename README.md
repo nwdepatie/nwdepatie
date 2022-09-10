@@ -14,7 +14,7 @@
     <li>Network Automation Engineer @ Northeastern University ITS</li>
     <li>Head of Data & Controls @ Northeastern Electric Racing</li>
   </ul>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nwdepatie)](https://github.com/anuraghazra/github-readme-stats)
+[![nwdepatie's GitHub stats](https://github-readme-stats.vercel.app/api?username=nwdepatie)](https://github.com/anuraghazra/github-readme-stats)
 <h4>Previous:</h3>
   <ul>
     <li>Camera NPI Firmware Co-op @ SimpliSafe</li>
