@@ -14,7 +14,6 @@
     <li>Network Automation Engineer @ Northeastern University ITS</li>
     <li>Head of Data & Controls @ Northeastern Electric Racing</li>
   </ul>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <h4>Previous:</h3>
   <ul>
     <li>Camera NPI Firmware Co-op @ SimpliSafe</li>
