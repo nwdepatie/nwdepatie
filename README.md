@@ -7,10 +7,9 @@
 </body>
   
 <div align>
-<h3 align="center">  Positions 💼</h3>
-<h5 align="center">Network Automation Engineer</h5>
-<h5 align="center">Head of Data & Controls</h5>
-
+  <h3 align="center">  Positions 💼</h3>
+  <h4 align="center">Network Automation Engineer</h4>
+  <h4 align="center">Head of Data & Controls</h4>
 </div>  
 
   
