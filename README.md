@@ -23,8 +23,6 @@
   </ul>
 
 </div>
-  
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nwdepatie&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
  
 <div align="right">
   
@@ -44,6 +42,8 @@
   </br>
 
 </div>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=nwdepatie&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <div align="left">
 
