@@ -20,8 +20,9 @@
   
 </div>
   
-<div>
-<h3 align="center">  Current Projects ✏️</h3>
+<div align="right">
+  
+<h3>  Current Projects ✏️</h3>
 </br>
 
 <h4 align="center">  NER (Northeastern Electric Racing) 🏎️</h4>
@@ -33,9 +34,9 @@ Shepherd BMS (Battery Management System)
 Telemetry Hub
 </br>
 
-<h4 align="center">  Personal 🧸</h4>
-<h4 align="center">XBox Kinect CV
-<h4 align="center">Assignment Manager
+<h4 align>  Personal 🧸</h4>
+<h4>XBox Kinect CV
+<h4>Assignment Manager
 </div>
 <!--
 **nwdepatie/nwdepatie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
