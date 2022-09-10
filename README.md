@@ -3,51 +3,49 @@
 
 <h3 align="center">  Hi there! 👋 </h3>
 <body align="center">
-  <p>  I'm Nick DePatie, a 3rd year Electrical and Computer Engineering major at Northeastern University. My aim is to participate in culturally significant and beneficial technological advances through developing and improving embedded systems. I have interests in operating system and kernel development, microcontroller based systems, silicon and SoC development, and communication networks.</p>
+  <p>  I'm Nick DePatie, a 3rd year Electrical and Computer Engineering major at Northeastern University with a business administration minor. My aim is to participate in culturally significant and beneficial technological advances through developing and improving embedded systems. I have interests in operating system and kernel development, microcontroller based systems, silicon and SoC development, and communication networks.</p>
 </body>
 
 <div align="left">
 
 <h3>Positions 💼</h3>
 <h4>Current:</h3>
-Network Automation Engineer @ Northeastern University ITS
-</br>
-Head of Data & Controls @ Northeastern Electric Racing
-<br>
+  <ul>
+    <li>Network Automation Engineer @ Northeastern University ITS</li>
+    <li>Head of Data & Controls @ Northeastern Electric Racing</li>
+  </ul>
 <h4>Previous:</h3>
-Camera NPI Firmware Co-op @ SimpliSafe
-<br>
-Firmware Lead @ Northeastern Electric Racing
-<br>
-Student Network Technician @ Northeastern University ITS
-<br>
+  <ul>
+    <li>Camera NPI Firmware Co-op @ SimpliSafe</li>
+    <li>Firmware Lead @ Northeastern Electric Racing</li>
+    <li>Student Network Technician @ Northeastern University ITS</li>
+    <li>Research Assistant @ Robotics and Intelligent Vehciles Laboratory</li>
+  </ul>
 
 </div>
 
   
 <div align="right">
   
-<h3>✏️ Current Projects</h3>
-<h4>🏎️ NER (Northeastern Electric Racing)</h4>
+  <h3>✏️ Current Projects</h3>
+  <h4>🏎️ NER (Northeastern Electric Racing)</h4>
+  <ul>
+    <li>MPU (Main Processing Unit)</li>
+    <li>Shepherd BMS (Battery Management System)</li>
+    <li>Telemetry Hub</li>
+  </ul>
 
-MPU (Main Processing Unit)
-</br>
-Shepherd BMS (Battery Management System)
-</br>
-Telemetry Hub
-</br>
-
-<h4>🧸 Personal</h4>
-XBox Kinect CV
-</br>
-Assignment Manager
-</br>
+  <h4>🧸 Personal</h4>
+  <ul>
+    <li>XBox Kinect CV</li>
+    <li>Assignment Manager</li>
+  </ul>
 
 </div>
 
 <div align="left">
 
-<h3>Coursework 💼</h3>
+<h3>Coursework 📚</h3>
 <h4>Current:</h3>
   <ul>
     <li>Digital Design</li>
@@ -61,6 +59,8 @@ Assignment Manager
     <li>Circuits and Signals</li>
     <li>Calculus I, II, & III</li>
     <li>Differential Equations and Linear Algebra</li>
+    <li>Discrete Mathematics</li>
+    <li>Physics I & II</li>
     <li>Accounting</li>
     <li>Finance</li>
     <li>Organizational Behavior</li>
