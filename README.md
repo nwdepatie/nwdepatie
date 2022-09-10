@@ -44,6 +44,29 @@ Assignment Manager
 </br>
 
 </div>
+
+<div align="left">
+
+<h3>Coursework 💼</h3>
+<h4>Current:</h3>
+  <ul>
+    <li>Digital Design</li>
+    <li>Engineering Algorithms</li>
+    <li>Electromagnetism</li>
+    <li>Marketing</li>
+  </ul>
+<h4>Previous:</h3>
+  <ul>
+    <li>Embedded Design</li>
+    <li>Circuits and Signals</li>
+    <li>Calculus I, II, & III</li>
+    <li>Differential Equations and Linear Algebra</li>
+    <li>Accounting</li>
+    <li>Finance</li>
+    <li>Organizational Behavior</li>
+  </ul>
+
+</div>
 <!--
 **nwdepatie/nwdepatie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
