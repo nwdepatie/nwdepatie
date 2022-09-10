@@ -1,7 +1,7 @@
 <h1 align="center">Nick DePatie - NEU ECE '25 ⚡💾 ⏱
 <h2 align="center">🛠 Embedded Systems, Firmware, Communication Networks 🛠
 
-<div align="center">
+<div align="right">
 <h3 align="center">  Hi there! 👋 </h3>
 
   <body align="center">
@@ -9,7 +9,7 @@
   </body>
 </div>
   
-<div align="center">
+<div align="">
 <h3 align="center">  Positions 💼</h3>
 </br>
 
