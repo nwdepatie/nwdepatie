@@ -14,7 +14,6 @@
     <li>Network Automation Engineer @ Northeastern University ITS</li>
     <li>Head of Data & Controls @ Northeastern Electric Racing</li>
   </ul>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=nwdepatie&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 <h4>Previous:</h3>
   <ul>
     <li>Camera NPI Firmware Co-op @ SimpliSafe</li>
@@ -25,6 +24,7 @@
 
 </div>
 
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=nwdepatie&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
   
 <div align="right">
   
