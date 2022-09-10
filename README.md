@@ -1,7 +1,7 @@
 <h1 align="center">Nick DePatie - NEU ECE '25 ⚡💾 ⏱
 <h2 align="center">🛠 Embedded Systems, Firmware, Communication Networks 🛠
 
-<div align="right">
+<div>
 <h3 align="center">  Hi there! 👋 </h3>
 
   <body align="center">
@@ -20,7 +20,7 @@ Head of Data & Controls
 </div>  
 
   
-<div align="center">
+<div>
 <h3 align="center">  Current Projects ✏️</h3>
 </br>
 
@@ -38,7 +38,6 @@ Telemetry Hub
 XBox Kinect CV
 </br>
 Assignment Manager
-
 </div>
 <!--
 **nwdepatie/nwdepatie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
