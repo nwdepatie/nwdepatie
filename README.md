@@ -4,7 +4,21 @@
 ### Hi there 👋
 My name is Nick DePatie
 
+### Current Projects ✏️
+#### NER (Northeastern Electric Racing) 🏎️
+- MPU (Main Processing Unit)
+- Shepherd BMS (Battery Management System)
+- Telemetry Hub
 
+#### Classes 📚
+- Digital Design
+- Engineering Algorithms
+- Electromagnetics
+- Marketing
+
+#### Personal 🧸
+- XBox Kinect CV
+- Assignment Manager
 
 <!--
 **nwdepatie/nwdepatie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
