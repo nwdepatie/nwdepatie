@@ -9,6 +9,7 @@ My name is Nick DePatie, and I'm a 3rd year Electrical and Computer Engineering 
 <h3 align="center">Positions 💼
 </br>
 
+#### 
 - Network Automation Engineer
 - Head of Data & Controls
 
