@@ -1,5 +1,5 @@
-<h1 align="center">Nick DePatie - NEU ECE '25
-<h2 align="center">Embedded Systems, Firmware, Communication Networks
+<h1 align="center">Nick DePatie - NEU ECE '25 ⚡💾 ⏱
+<h2 align="center">🛠 Embedded Systems, Firmware, Communication Networks 🛠
 
 ### Hi there 👋
 My name is Nick DePatie
