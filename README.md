@@ -3,15 +3,17 @@
 
 <h3 align="center">Hi there! 👋
 </br>
-
+#### 
 My name is Nick DePatie, and I'm a 3rd year Electrical and Computer Engineering major at Northeastern University.
 
+<div align="center">
 <h3 align="center">Positions 💼
 </br>
 
-#### 
-- Network Automation Engineer
-- Head of Data & Controls
+Network Automation Engineer
+Head of Data & Controls
+
+</div>  
 
 <h3 align="center">Current Projects ✏️
 </br>
