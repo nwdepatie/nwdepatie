@@ -30,15 +30,15 @@
   <h3>✏️ Current Projects</h3>
   <h4>🏎️ NER (Northeastern Electric Racing)</h4>
   <ul>
-    <li style="float: right;">MPU (Main Processing Unit)</li>
-    <li style="float: right;">Shepherd BMS (Battery Management System)</li>
-    <li style="float: right;">Telemetry Hub</li>
+    <li>MPU (Main Processing Unit)</li>
+    <li>Shepherd BMS (Battery Management System)</li>
+    <li>Telemetry Hub</li>
   </ul>
 
   <h4>🧸 Personal</h4>
   <ul>
-    <li style="float: right;">XBox Kinect CV</li>
-    <li style="float: right;">Assignment Manager</li>
+    <li>XBox Kinect CV</li>
+    <li>Assignment Manager</li>
   </ul>
 
 </div>
