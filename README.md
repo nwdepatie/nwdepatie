@@ -16,8 +16,11 @@ Head of Data & Controls @ Northeastern Electric Racing
 <br>
 <h4>Previous:</h3>
 Camera NPI Firmware Co-op @ SimpliSafe
+<br>
 Firmware Lead @ Northeastern Electric Racing
+<br>
 Student Network Technician @ Northeastern University ITS
+<br>
 
 </div>
 
