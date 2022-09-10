@@ -3,12 +3,22 @@
 
 <h3 align="center">  Hi there! 👋 </h3>
 <body align="center">
-  <p>  My name is Nick DePatie, and I'm a 3rd year Electrical and Computer Engineering major at Northeastern University. My aim is to participate in culturally significant and beneficial technological advances through developing and improving embedded systems. I have interests in operating system and kernel development, microcontroller based systems, and communication networks.</p>
+  <p>  I'm Nick DePatie, a 3rd year Electrical and Computer Engineering major at Northeastern University. My aim is to participate in culturally significant and beneficial technological advances through developing and improving embedded systems. I have interests in operating system and kernel development, microcontroller based systems, silicon and SoC development, and communication networks.</p>
 </body>
 
-<h3 align="center">Current Positions 💼</h3>
-<h4 align="center">Network Automation Engineer @ Northeastern University ITS</h4>
-<h4 align="center">Head of Data & Controls @ Northeastern Electric Racing</h4>
+<div>
+
+<h3 align="left">Positions 💼</h3>
+<h4>Current:</h3>
+<h4>Network Automation Engineer @ Northeastern University ITS</h4>
+<h4>Head of Data & Controls @ Northeastern Electric Racing</h4>
+<br>
+<h4>Previous:</h3>
+<h4>Camera NPI Firmware Co-op @ SimpliSafe</h4>
+<h4>Firmware Lead @ Northeastern Electric Racing</h4>
+<h4>Student Network Technician @ Northeastern University ITS</h4>
+  
+</div>
   
 <div>
 <h3 align="center">  Current Projects ✏️</h3>
