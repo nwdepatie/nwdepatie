@@ -5,7 +5,7 @@
 </br>
 
 <body align="center">
-My name is Nick DePatie, and I'm a 3rd year Electrical and Computer Engineering major at Northeastern University.
+<p>My name is Nick DePatie, and I'm a 3rd year Electrical and Computer Engineering major at Northeastern University.<p>
 </body>
   
 <div align="center">
