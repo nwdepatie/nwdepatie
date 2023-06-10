@@ -35,9 +35,9 @@
   
   <h3>✏️ Current Projects</h3>
   <h4>🏎️ NER (Northeastern Electric Racing)</h4>
-    Cerberus (Torque Calcs and System State): https://github.com/Northeastern-Electric-Racing/Cerberus
+    Cerberus (Torque Calcs and System State)
   </br>
-    Shepherd BMS (Battery Management System): https://github.com/Northeastern-Electric-Racing/shepherd_bms
+    Shepherd BMS (Battery Management System)
   </br>
     Odyssey (Telemetry Edge Decoding and Wireless Transfer): Repo TBD
   </br>
