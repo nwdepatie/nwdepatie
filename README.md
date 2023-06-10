@@ -35,11 +35,11 @@
   
   <h3>✏️ Current Projects</h3>
   <h4>🏎️ NER (Northeastern Electric Racing)</h4>
-    Cerberus (Torque Calcs and System State)
+    Cerberus (Torque Calcs and System State): https://github.com/Northeastern-Electric-Racing/Cerberus
   </br>
-    Shepherd BMS (Battery Management System)
+    Shepherd BMS (Battery Management System): https://github.com/Northeastern-Electric-Racing/shepherd_bms
   </br>
-    Odyssey (Telemetry Edge Decoding and Wireless Transfer)
+    Odyssey (Telemetry Edge Decoding and Wireless Transfer): Repo TBD
   </br>
   </br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
