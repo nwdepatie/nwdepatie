@@ -11,12 +11,12 @@
 <h3>Positions 💼</h3>
 <h4>Current:</h3>
   <ul>
-    <li>Incoming Embedded Software Development Co-op @ Amazon Robotics</li>
     <li>Head of Data & Controls @ Northeastern Electric Racing</li>
     <li>Chief Computer Engineer @ Generate</li>
   </ul>
 <h4>Previous:</h3>
   <ul>
+    <li>Embedded SDE Co-op @ Amazon Robotics</li>
     <li>Network Automation Engineer @ Northeastern University ITS</li>
     <li>Camera NPI Firmware Co-op @ SimpliSafe</li>
     <li>Firmware Lead @ Northeastern Electric Racing</li>
