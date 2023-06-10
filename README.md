@@ -35,17 +35,11 @@
   
   <h3>✏️ Current Projects</h3>
   <h4>🏎️ NER (Northeastern Electric Racing)</h4>
-    MPU (Main Processing Unit)
+    Cerberus (Torque Calcs and System State)
   </br>
     Shepherd BMS (Battery Management System)
   </br>
-    Telemetry Hub
-  </br>
-  
-  <h4>🧸 Personal</h4>
-    XBox Kinect CV
-  </br>
-    Assignment Manager
+    Odyssey (Telemetry Edge Decoding and Wireless Transfer)
   </br>
   </br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
