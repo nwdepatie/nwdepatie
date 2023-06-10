@@ -53,10 +53,13 @@
 <h3>Coursework 📚</h3>
 <h4>Current:</h3>
   <ul>
-    <li>Digital Design</li>
-    <li>Engineering Algorithms</li>
-    <li>Electromagnetism</li>
-    <li>Marketing</li>
+    <li>Capstone I</li>
+    <li>Innovation!</li>
+    <li>Electronics</li>
+    <li>Intro to Communication Systems</li>
+    <li>Fundamentals of Linear Systems</li>
+    <li>Computer Systems</li>
+    <li>Fundamentals of Networks</li>
   </ul>
 <h4>Previous:</h3>
   <ul>
@@ -69,6 +72,10 @@
     <li>Accounting</li>
     <li>Finance</li>
     <li>Organizational Behavior</li>
+    <li>Digital Design</li>
+    <li>Engineering Algorithms</li>
+    <li>Electromagnetism</li>
+    <li>Marketing</li>
   </ul>
 
 </div>
