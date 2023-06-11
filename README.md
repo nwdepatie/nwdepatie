@@ -3,7 +3,7 @@
 
 <h3 align="center">  Hi there! 👋 </h3>
 <body align="center">
-  <p>  I'm Nick DePatie, a 4th year (graduating May 2024) Electrical and Computer Engineering major at Northeastern University with a business administration minor. My aim is to participate in culturally significant and beneficial technological advances through developing and improving embedded systems. I have interests in operating system and kernel development, microcontroller based systems, robotics controls and firmware, silicon and SoC development, and communication networks. Pretty much any low-level coding that controls or abstracts hardware!</p>
+  <p>  I'm Nick DePatie, a 4th year (graduating May 2024) Electrical and Computer Engineering major at Northeastern University with a business administration minor. My aim is to participate in culturally significant and beneficial technological advances through developing and improving embedded systems. I have interests in operating system and kernel development, microcontroller based systems, robotics controls and firmware, silicon and SoC development, and (wireless) communication networks. Pretty much any low-level coding that controls or abstracts hardware!</p>
 </body>
   
 <div align="left">
