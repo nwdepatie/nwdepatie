@@ -3,7 +3,7 @@
 
 <h3 align="center">  Hi there! 👋 </h3>
 <body align="center">
-  <p>  I'm Nick DePatie, a 4th year (graduating May 2024) Electrical and Computer Engineering major at Northeastern University with a business administration minor. My aim is to participate in culturally significant and beneficial technological advances through developing and improving embedded systems. I have interests in operating system and kernel development, microcontroller based systems, robotics controls and firmware, silicon and SoC development, and (wireless) communication networks. Pretty much any low-level coding that controls or abstracts hardware!</p>
+  <p>  I'm Nick DePatie, a 4th year (graduating May 2024) Electrical and Computer Engineering major at Northeastern University with a business administration minor. My aim is to participate in culturally significant and beneficial technological advances through developing and improving embedded systems. I have interests in operating system and kernel development, microcontroller based systems, controls, digital signal processing, firmware, silicon and SoC development, and (wireless) communication networks. Pretty much any low-level coding that controls or abstracts hardware!</p>
 </body>
   
 <div align="left">
@@ -11,8 +11,14 @@
 <h3>Positions 💼</h3>
 <h4>Current:</h3>
   <ul>
-    <li>Head of Data & Controls @ Northeastern Electric Racing</li>
-    <li>Chief Computer Engineer @ Generate</li>
+    <li>
+      Head of Data & Controls @ 
+       <a href="https://electricracing.northeastern.edu/">Northeastern Electric Racing</a>
+    </li>
+    <li>
+      Chief Computer Engineer @ 
+       <a href="https://electricracing.northeastern.edu/">Generate Product Development Studio</a>
+    </li>
   </ul>
 <h4>Previous:</h3>
   <ul>
@@ -73,18 +79,3 @@
   </ul>
 
 </div>
-
-<!--
-**nwdepatie/nwdepatie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
