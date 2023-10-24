@@ -17,7 +17,7 @@
     </li>
     <li>
       Chief Computer Engineer @ 
-       <a href="https://electricracing.northeastern.edu/">Generate Product Development Studio</a>
+       <a href="https://generatenu.com/">Generate Product Development Studio</a>
     </li>
   </ul>
 <h4>Previous:</h3>
