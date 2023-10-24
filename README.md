@@ -38,11 +38,14 @@
   
   <h3>✏️ Current Projects</h3>
   <h4>🏎️ NER (Northeastern Electric Racing)</h4>
+    PENDING: Proteus (Fully Custom HV Motor Controller)
+  </br>
     Cerberus (Torque Calcs and System State)
   </br>
-    Shepherd BMS (Battery Management System)
+    Shepherd BMS 2.0 (Fully Custom HV Battery Management System)
   </br>
-    Odyssey (Telemetry Edge Decoding and Wireless Networking)
+    Odyssey (MQTT Telemetry Server Enabled by HaLow WiFi)
+  </br>
   </br>
   </br>
   </br>
