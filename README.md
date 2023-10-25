@@ -36,17 +36,24 @@
   
 <div align="right">
   
-  <h3>✏️ Current Projects</h3>
-  <h4>🏎️ NER (Northeastern Electric Racing)</h4>
+  <h3>✏️ Current Projects (Under Development)</h3>
     PENDING: Proteus (Fully Custom HV Motor Controller)
   </br>
-    Cerberus (Torque Calcs and System State)
+    <a href="https://github.com/Northeastern-Electric-Racing/Cerberus">Cerberus</a>
+    (FreeRTOS App, Torque Calcs and System State)
   </br>
-    Shepherd BMS 2.0 (Fully Custom HV Battery Management System)
+    <a href="https://github.com/orgs/Northeastern-Electric-Racing/repositories?type=all">Shepherd BMS 2.0</a>
+    (Fully Custom HV Battery Management System)
   </br>
-    Odyssey (MQTT Telemetry Server Enabled by HaLow WiFi)
+    <a href="https://github.com/Northeastern-Electric-Racing/Siren">Odyssey</a>
+    (MQTT Telemetry Server, Visualization, and Storage Stack Enabled by HaLow WiFi)
   </br>
+  <h3>Some Past Projects</h3>
+    <a href="https://github.com/Northeastern-Electric-Racing/Embedded_Code">Main Processing Unit (MPU) and Telemetry Collection Unit (TCU)</a>
   </br>
+    <a href="https://github.com/Northeastern-Electric-Racing/shepherd_bms">Shepherd BMS 1.0</a>
+  </br> 
+    <a href="https://github.com/Northeastern-Electric-Racing/NERduino">NERduino</a>
   </br>
   </br>
 </div>
