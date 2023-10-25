@@ -42,7 +42,7 @@
     <a href="https://github.com/Northeastern-Electric-Racing/Cerberus">Cerberus</a>
     (FreeRTOS App, Torque Calcs and System State)
   </br>
-    <a href="https://github.com/orgs/Northeastern-Electric-Racing/repositories?type=all">Shepherd BMS 2.0</a>
+    <a href="https://github.com/Northeastern-Electric-Racing/ShepherdBMS-2">Shepherd BMS 2.0</a>
     (Fully Custom HV Battery Management System)
   </br>
     <a href="https://github.com/Northeastern-Electric-Racing/Siren">Odyssey</a>
