@@ -63,9 +63,6 @@
 <h3>Coursework 📚</h3>
 <h4>Current:</h3>
   <ul>
-    <li>Capstone I</li>
-    <li>Innovation!</li>
-    <li>Electronics</li>
     <li>Intro to Communication Systems</li>
     <li>Fundamentals of Linear Systems</li>
     <li>Computer Systems</li>
@@ -86,6 +83,9 @@
     <li>Engineering Algorithms</li>
     <li>Electromagnetism</li>
     <li>Marketing</li>
+    <li>Capstone I</li>
+    <li>Innovation!</li>
+    <li>Electronics</li>
   </ul>
 
 </div>
