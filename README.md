@@ -15,13 +15,13 @@
       Head of Data & Controls @ 
        <a href="https://electricracing.northeastern.edu/">Northeastern Electric Racing</a>
     </li>
+  </ul>
+<h4>Previous:</h3>
+  <ul>
     <li>
       Chief Computer Engineer @ 
        <a href="https://generatenu.com/">Generate Product Development Studio</a>
     </li>
-  </ul>
-<h4>Previous:</h3>
-  <ul>
     <li>Embedded SDE Co-op @ Amazon Robotics</li>
     <li>Network Automation Engineer @ Northeastern University ITS</li>
     <li>Camera NPI Firmware Co-op @ SimpliSafe</li>
