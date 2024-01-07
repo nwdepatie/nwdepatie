@@ -63,13 +63,17 @@
 <h3>Coursework 📚</h3>
 <h4>Current:</h3>
   <ul>
+    <li>Hardware Software Codesign of FPGA Systems</li>
+    <li>Noise and Stochastic Processes</li>
+    <li>Mobile Robotics</li>
+    <li>Capstone</li>
+  </ul>
+<h4>Previous:</h3>
+  <ul>
     <li>Intro to Communication Systems</li>
     <li>Fundamentals of Linear Systems</li>
     <li>Computer Systems</li>
     <li>Fundamentals of Networks</li>
-  </ul>
-<h4>Previous:</h3>
-  <ul>
     <li>Embedded Design</li>
     <li>Circuits and Signals</li>
     <li>Calculus I, II, & III</li>
