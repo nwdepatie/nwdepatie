@@ -65,7 +65,7 @@
   <ul>
     <li>Hardware Software Codesign of FPGA Systems</li>
     <li>Noise and Stochastic Processes</li>
-    <li>Mobile Robotics</li>
+    <li>Microprocessor Based Design</li>
     <li>Capstone</li>
   </ul>
 <h4>Previous:</h3>
