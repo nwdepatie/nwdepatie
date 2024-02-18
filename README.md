@@ -1,5 +1,5 @@
 <h1 align="center">Nick DePatie - NEU ECE '24 ⚡💾 ⏱
-<h2 align="center">🛠 Embedded Systems, Firmware, Communication Networks 🛠
+<h2 align="center">🛠 Embedded Systems, Firmware, Communications, Controls, Sensing 🛠
 
 <h3 align="center">  Hi there! 👋 </h3>
 <body align="center">
@@ -37,13 +37,20 @@
 <div align="right">
   
   <h3>✏️ Current Projects (Under Development)</h3>
-    PENDING: Proteus (Fully Custom HV Motor Controller)
+    <a href="https://github.com/nwdepatie/mercury">Mercury</a>
+    (Modular, SoC FPGA Based Robotic Platform for Controls and Sensing)
+  </br>
+    <a href="https://github.com/Northeastern-Electric-Racing/ProteusMC">Proteus MC</a>
+    (Fully Custom HV Motor Controller Firmware)
+  </br>
+  <a href="https://github.com/nwdepatie/EchoEQ">EchoEQ</a>
+    (Pipelined and Parallelized Audio EQ in HLS)
   </br>
     <a href="https://github.com/Northeastern-Electric-Racing/Cerberus">Cerberus</a>
-    (FreeRTOS App, Torque Calcs and System State)
+    (Torque Calculation and System State Management ECU Firmware)
   </br>
     <a href="https://github.com/Northeastern-Electric-Racing/ShepherdBMS-2">Shepherd BMS 2.0</a>
-    (Fully Custom HV Battery Management System)
+    (Fully Custom, Modular, HV Battery Management System Firmware)
   </br>
     <a href="https://github.com/Northeastern-Electric-Racing/Siren">Odyssey</a>
     (MQTT Telemetry Server, Visualization, and Storage Stack Enabled by HaLow WiFi)
