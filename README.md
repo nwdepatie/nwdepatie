@@ -39,12 +39,12 @@
   
 <div align="right">
   <h3>Some Past Projects ✏️</h3>
-  <a href="https://github.com/nwdepatie/mercury">Mercury</a>
-    (Modular, SoC FPGA Based Robotic Platform for Controls and Sensing)
-  </br>
     <a href="https://github.com/Northeastern-Electric-Racing/ProteusMC">Proteus MC</a>
     (Fully Custom Dual HV Motor Controller Inverter Firmware)
   </br>
+  <a href="https://github.com/nwdepatie/mercury">Mercury</a>
+    (Modular, SoC FPGA Based Robotic Platform for Controls and Sensing)
+</br>
   <a href="https://github.com/nwdepatie/EchoEQ">EchoEQ</a>
     (Pipelined and Parallelized Audio EQ in HLS)
   </br>
@@ -63,6 +63,8 @@
   </br> 
     <a href="https://github.com/Northeastern-Electric-Racing/NERduino">NERduino</a>
     (Northeastern Electric Racing's "Arduino" for rapid development of automotive systems)
+  </br>
+    <a href="https://github.com/nwdepatie/Basic-Autonomous-Car-Sim">Basic Simulink Model of Autonomous Car</a>
   </br>
   </br>
 </div>
