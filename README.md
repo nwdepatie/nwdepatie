@@ -1,5 +1,5 @@
-<h1 align="center">Nick DePatie - Embedded & Systems SDE, NEU ECE '24 ⚡💾 ⏱
-<h2 align="center">🛠 Embedded Systems, Firmware, Communications, Controls, Sensing, Computing 🛠
+<h1 align="center">Nick DePatie - Embedded & Systems SDE, NEU ECE '24 ⚡💾⏱
+<h2 align="center">🛠 Firmware, Communications, Controls, Sensing, Computing 🛠
 
 <h3 align="center">  Hi there! 👋 </h3>
 <body align="center">
